@@ -3,7 +3,7 @@ package com.example.composition.domain.usecases
 import com.example.composition.domain.entity.Question
 import com.example.composition.domain.repository.GameRepository
 
-class GenerateQuestionUseCas(
+class GenerateQuestionUseCase(
     private val repository: GameRepository
 ) {
 
