@@ -81,6 +81,9 @@
         android:layout_height="wrap_content"
         android:text="@string/retry"
         android:layout_margin="8dp"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:textStyle="bold"
         android:backgroundTint="@color/purple_light"
         app:layout_constraintBottom_toBottomOf="parent"
         />
